@@ -6,7 +6,7 @@ import statsmodels.api as sm
 import seaborn as sns
 sns.set()
 # load the data
-data = pd.read_csv('/Users/luowenyan/Downloads/real_estate_price_size.csv')
+data = pd.read_csv('/Users/XXX/real_estate_price_size.csv')
 
 # print(data)
 # print(data.describe())
